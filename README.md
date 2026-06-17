@@ -23,5 +23,5 @@ This project analyzes housing market data using:
 - MYSQL
 - POWER BI
 
-## Dashboard Preview
-Screenshot 2026-06-17 181112.png
+## Dashboard)
+![Dashboard Screenshot](Screenshot%2026-06-17%181112.png)
